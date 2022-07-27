@@ -1,0 +1,41 @@
+what is npm? 
+    NPM is CLC(command line client) application which is used for installing and manage open source packages. 
+    largest software registry in the world.
+    there are two dependency 1)dependency 2)dev-dependency
+    
+    some command : 
+    npm install 
+    npm uninstall
+    npm update
+    npm outdated
+
+
+
+
+
+What is nodeJS?
+   Node js is javascript run time environment built on google's open source v8 javascript engine.
+
+
+
+Pro of node JS? 
+    Single threaded, based on event driven, non-blocking I/O model.
+    Perfect for building fast and scalable data-intensive apps.
+    Companies like netflix, UBER, PayPal, and Ebay have starting using in node production
+    Javascript across the entire stack - faster and more efficient development.
+    NPM-huge library of open source packages available for everyone for free.
+    Very active developer community.
+
+
+Use of nodeJs?
+    API with database behind it(preferably NoSQL)
+    Data streaming.
+    Real time chat application
+    server side web application
+
+
+Don't use with node Js?
+    application with heavy server side processing(CPU-intensive) 
+
+
+What is repl?

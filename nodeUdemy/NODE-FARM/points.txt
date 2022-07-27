@@ -1,0 +1,18 @@
+https://github.com/jonasschmedtmann/complete-node-bootcamp
+
+points :
+
+callback hell: solving using ES6 promising or latest ES async and await. like this ">"
+
+blocking and non-blocking asynchronous nature of node js.
+
+file system
+
+web server
+
+routing
+
+url
+
+Simple api
+

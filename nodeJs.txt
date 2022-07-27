@@ -1,0 +1,49 @@
+chalk
+validator
+toaster
+
+
+JSON :- JSON stands for Javascript object notation.
+        JSON is lightWeight formate for storing and transporting data.
+        JSON is used often when data is sent from a server to a web page.
+
+
+Api :- API is the acronym for application programming interface, which is a software intermediary that allows two application
+       to talk to each other.
+
+
+
+
+
+Points :-
+	Module wrapper function
+        event module
+        Streaming
+        stream.pipe() method
+        libuv
+        V8
+        scheduling
+        thread
+        thread pool
+        hashes
+        blocking and non-blocking
+
+What is nodeJs?
+        NodeJs is a open source, cross-platform javascript runtime environment and library to run web
+        application outside the client's browser.It is used to create server-side web application.
+        
+        NodeJs is used to execute a javascript code on any machine outside the client's browser.
+
+What is blocking and non-blocking?
+        Blocking - When multiple user send request that request takes server one by one after 
+                   response.
+
+        Non-blocking - When multiple user send request that request takes server once and gives response
+                       them as per finishing process of request.
+
+In which environment js engine works?
+        there four container 
+                first one memory heap
+                second one call stack
+                third one web API
+                and last one callback queue
